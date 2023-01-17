@@ -69,8 +69,8 @@ body {
 
 main,footer{
 
-    margin-left: 170px;
-    margin-right: 170px;
+    padding-left: 170px;
+    padding-right: 170px;
 
 }
 
